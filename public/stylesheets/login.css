@@ -1,0 +1,32 @@
+.login-section{
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top:70px;
+}
+.login-title{
+  font-size: 43px;
+  color: beige
+}
+.form-input{
+  width: 350px;
+  height: 40px;
+  padding-left: 10px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid hsla(0,0%,100%,.5);
+  background: bottom;
+  outline: none;
+  margin-top: 22px;
+}
+.form-button{
+  width: 350px;
+  height: 30px;
+  margin-top: 30px;
+  background: bottom;
+  border: 1px solid hsla(0,0%,100%,.5);
+  cursor: pointer;
+  color: red;
+}
